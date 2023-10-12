@@ -1,4 +1,4 @@
-# inotes
+# iNotes By Kunal
 ## A web app to take notes,view, update and delete.
 ## Written using html,bootstrap and php
 
